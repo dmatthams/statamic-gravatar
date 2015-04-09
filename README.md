@@ -4,7 +4,7 @@ A simple statamic plugin for retrieving a gravatar url from an e-mail address.
 
 ## Usage
 
-Put it in your _add-ons folder and use with:
+Rename folder to 'gravatar' and put it in your _add-ons folder, use with:
 
 	<img src="{{ gravatar email="person@gmail.com" }}">
 
