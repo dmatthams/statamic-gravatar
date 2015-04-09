@@ -1,6 +1,6 @@
 # Statamic gravatar
 
-A simple statamic plugin for retrieving a members gravatar.
+A simple statamic plugin for retrieving a gravatar url from an e-mail address.
 
 ## Usage
 
@@ -8,7 +8,7 @@ Put it in your _add-ons folder and use with:
 
 	<img src="{{ gravatar email="person@gmail.com" }}">
 
-to retrieve gravatar for that e-mail address.
+to retrieve the gravatar for that e-mail address.
 
 Define the size of gravatar with:
 
